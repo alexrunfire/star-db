@@ -9,9 +9,3 @@ The project is a React app to display information about Star Wars using the swap
 * Display info about people, planets and starships
 * Display loading and error indicators
 * Catch errors
-
-## Project Status
-Project completed
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
